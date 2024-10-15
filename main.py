@@ -18,6 +18,8 @@ def main():
     fa_text = _("Hello World")
     print(fa_text)
 
+    print("---------WORLD-----------")
+
 
 if __name__ == "__main__":
     main()
