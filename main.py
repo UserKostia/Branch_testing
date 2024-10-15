@@ -14,6 +14,8 @@ def main():
     en_text = _("Hello World")
     print(en_text)
 
+    print("---------- HELLLLLOOOO --------------------")
+
     babel.locale = "fa"
     fa_text = _("Hello World")
     print(fa_text)
